@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/delaunay.iml" filepath="$PROJECT_DIR$/delaunay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FidiTriangulationFun.iml" filepath="$PROJECT_DIR$/FidiTriangulationFun.iml" />
     </modules>
   </component>
 </project>
